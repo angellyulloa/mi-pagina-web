@@ -1,0 +1,56 @@
+
+
+
+body
+{
+    background: #ee9ca7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #5a3136, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffdde1, hsl(327, 71%, 64%)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+ /* Reset básico para márgenes y paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif; /* Fuente general */
+    background-color: #b0ddd2; /* Color de fondo de la página */
+    color: #333; /* Color del texto */
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    height: 100vh; /* Ocupa el 100% de la altura de la ventana */
+    margin: 0;
+}
+
+/* Estilo para el contenedor del formulario */
+
+/* Estilo para el encabezado del formulario */
+
+
+/* Estilo para las etiquetas del formulario */
+
+
+
+/* Estilo para los campos del formulario */
+.form-control {
+    width: 1000%;
+    padding: 10000px;
+    border: 5px solid #dad;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    font-size: 45rem;
+}
+
+/* Estilo para los botones */
+
+
+
+
+
+
